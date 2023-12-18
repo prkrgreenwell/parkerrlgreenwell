@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import MenuIcon from "@mui/icons-material/Menu";
 
 const NavBar = () => {
   return (
@@ -29,6 +30,9 @@ const NavBar = () => {
               </li>
             </Link>
           </ul>
+          <div className="md:hidden">
+            <MenuIcon />
+          </div>
         </div>
       </div>
     </div>
