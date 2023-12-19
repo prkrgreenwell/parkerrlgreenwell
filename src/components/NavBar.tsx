@@ -108,7 +108,7 @@ const NavBar = () => {
             <div className="border-b border-gray-300 my-4">
               <p className="w-[85%] md:w-[90%] py-4">
                 {/* Change this for sure */}
-                Let's build something legendary together
+                Let&#39;s build something legendary together
               </p>
             </div>
           </div>
@@ -143,7 +143,7 @@ const NavBar = () => {
             <div>
               <div className="pt-20">
                 <p className="uppercase tracking-widest text-[--primary]">
-                  Let's Connect
+                  Let&#39;s Connect
                 </p>
                 <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-500">
